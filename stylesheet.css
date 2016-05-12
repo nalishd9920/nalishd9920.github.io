@@ -6,4 +6,9 @@ p{ font-size:20px;color: Black;
 }
 h2{font-size:30px;
 } 
-
+#box{
+display:inline;
+width:100% - 450px;
+}
+iFrame{
+  display:inline;}
