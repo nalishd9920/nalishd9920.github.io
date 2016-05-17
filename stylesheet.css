@@ -13,7 +13,7 @@ display:block;
 } 
 #box{
 display:block;
-width:100% - 450px;
+width:100%;
 }
 iFrame{
   display:inline-block;
