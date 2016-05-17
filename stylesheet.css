@@ -5,6 +5,7 @@ h1{
 p{ 
   font-size:20px;
   color: Black;
+  width:50%;
   display:inline-block;
 }
 h2{font-size:30px;
@@ -16,5 +17,6 @@ width:100% - 450px;
 }
 iFrame{
   display:inline-block;
+  width:40%;
   
 }
