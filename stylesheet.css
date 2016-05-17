@@ -2,13 +2,19 @@ h1{
   color:Black;
   font-size:30px;
 }
-p{ font-size:20px;color: Black;
+p{ 
+  font-size:20px;
+  color: Black;
+  display:inline-block;
 }
 h2{font-size:30px;
+display:block;
 } 
 #box{
-display:inline;
+display:block;
 width:100% - 450px;
 }
 iFrame{
-  display:inline-block;}
+  display:inline-block;
+  
+}
