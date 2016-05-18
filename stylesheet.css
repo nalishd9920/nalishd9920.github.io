@@ -6,15 +6,15 @@ p{
   font-size:20px;
   color: Black;
   width:50%;
-  display:inline-block;
+  display:block;
 
 }
 h2{font-size:30px;
 display:block;
 } 
 #box{
-display:block;
-width:100%;
+display:inline-block;
+width:40%;
 }
 iFrame{
   display:inline-block;
