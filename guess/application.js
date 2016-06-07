@@ -8,7 +8,8 @@ $(document).ready(function(){
 		if guess == random_num{
 			$("#response").html("<p>Good guess!</p>");
 		}
-		
+		if guess < random_num{ 
+			
 	});
 	<button id="submit" onClick="reply_click()"></button>
 	<button id="clear" onClick="reply_click()"></button>
