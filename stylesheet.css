@@ -16,6 +16,8 @@ h2{
 #Box{
   display:inline-block;
   width:40%;
+  position: absolute;
+  top:0;
 }
 iFrame{
   display:inline-block;
